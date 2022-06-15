@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading criteria, description of assignments, two required texts,
+  and a list of topics covered in each session.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -97,7 +100,7 @@ Sterling, Marvin D. _Babylon East: Performing Dancehall, Roots Reggae, and Rasta
 Calendar
 --------
 
-A partial list of video and audio used in each unit is included below. Reading assignments for each session are available on the [Readings]({{< baseurl >}}/pages/readings) page.
+A partial list of video and audio used in each unit is included below. Reading assignments for each session are available on the {{% resource_link e2f06343-0eed-34ce-d474-306c301556bf "Readings" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
