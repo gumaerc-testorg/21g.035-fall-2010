@@ -137,8 +137,8 @@ Fairley, Jan. "How To Make Love With Your Clothes On: Dancing *Regeton*, Gender 
 
 Béhague, Gerard. "Rap, Reggae, Rock, or Samba: The Local and the Global in Brazilian Popular Music (1985-95)." *Latin American Music Review* 27 (Spring/Summer 2006): 79-90.
 
-de Araújo Pinho, Osmundo. "'Fogo na Babilônia': Reggae, Black Counterculture, and Globalization in Brazil."   
-dos Santos Godi, Antonio J. V. "Reggae and *Samba-Reggae* in Bahia: A Case of Long-Distance Belonging."   
+de Araújo Pinho, Osmundo. "'Fogo na Babilônia': Reggae, Black Counterculture, and Globalization in Brazil."    
+dos Santos Godi, Antonio J. V. "Reggae and *Samba-Reggae* in Bahia: A Case of Long-Distance Belonging."    
 Perrone, Charles A., and Christopher Dunn. *Brazilian Popular Music and Globalization*. New York, NY: Routledge, 2001, pp. 192-219. ISBN: 9780415936958.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -151,7 +151,7 @@ Neate, Patrick, and Damian Platt. Chapters 3-4 and 7-8 in *Culture Is Our Weapon
 
 *Optional*
 
-Cumming, Andy. "[Who Let the Yobs Out](http://www.stylusmagazine.com/articles/weekly_article/who-let-the-yobs-out.htm)?" *Stylus*, November 21, 2005.
+Cumming, Andy. "[Who Let the Yobs Out?](https://www.brasilwire.com/im-ugly-but-im-trendy-a-baile-funk-snapshot/)" *Stylus*, November 21, 2005. (Note: This article is included here as a part of "I'm Ugly But I'm Trendy: A 2005 Baile Funk Snapshot" by Andrew Cumming, Brasilwire, September 24, 2018.)
 
 Davis, Mike. "Planet of Slums." *New Left* *Review* 26 (March-April 2004).
 
