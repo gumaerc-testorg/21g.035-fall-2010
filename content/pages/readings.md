@@ -37,7 +37,7 @@ Thomas, Deborah. "Modern Blackness; or, Theoretical 'Tripping' on Black Vernacul
 5
 {{< tdclose >}}{{< tdopen >}}
 
-Chude-Sokei, Louis. "{{% resource_link "98cf78a6-f02b-430d-8d51-c967cdeaa69e" "Post-Nationalist Geographies: Rasta, Ragga, and Reinventing Africa" %}}." *African Arts* 27 (Autumn 1994): 80-84 and 96.
+Chude-Sokei, Louis. "[Post-Nationalist Geographies: Rasta, Ragga, and Reinventing Africa](http://dx.doi.org/10.2307/3337324)." *African Arts* 27 (Autumn 1994): 80-84 and 96.
 
 Patterson, Orlando. "Ecumenical America: Global Culture and the American Cosmos." *World Policy Journal* 11 (Summer 1994): 103-117.
 
@@ -55,7 +55,7 @@ Gilroy, Paul. "Between the Blues and the Blues Dance: Some Soundscapes of the Bl
 
 Sharma, Sanjay. "Noisy Asians or 'Asian' Noise?" In *Dis-Orienting Rhythms: The Politics of the New Asian Dance Music*. London, England: Zed Books, 1996, pp. 32-60. ISBN: 9781856494700.
 
-Quinn, Steven. "Rumble In The Jungle: The Invisible History of Drum'n'Bass." *Transformations* 3 (June 2002): 1-12. ({{% resource_link "d0d34d7b-323d-4603-9f4e-c95c121e0df6" "PDF" %}})
+Quinn, Steven. "Rumble In The Jungle: The Invisible History of Drum'n'Bass." *Transformations* 3 (June 2002): 1-12. ([PDF](http://www.transformationsjournal.org/issues/03/pdf/quinn.pdf))
 
 Liner notes. *Watch How The People Dancing - Unity Sounds From The London Dancehall, 1986-1989*. Honest Jon's Records, 2002.
 
@@ -67,19 +67,19 @@ Liner notes. *Watch How The People Dancing - Unity Sounds From The London Danceh
 
 Kenner, Rob. "Dancehall." In Light, Alan. *The Vibe History of Hip Hop*. New York, NY: Three Rivers Press, 1999, pp. 350-357. ISBN: 9780859652902.
 
-Marshall, Wayne. "{{% resource_link "4a8cc5e6-44a1-4640-8643-241d055a3316" "Follow Me Now: The Zigzagging Zunguzung Meme" %}}." *Wayne and Wax*, May 10, 2007.
+Marshall, Wayne. "[Follow Me Now: The Zigzagging Zunguzung Meme](http://wayneandwax.com/?p=137)." *Wayne and Wax*, May 10, 2007.
 
-———. "{{% resource_link "b6d624fe-bc72-4bf2-ae19-60f58a44c99d" "Hearing Hip-Hop's Jamaican Accent" %}}." *Institute for Studies in American Music Newsletter* 34 (2005): 8-9, and 14-15.
+———. "[Hearing Hip-Hop's Jamaican Accent](http://wayneandwax.blogspot.in/2005/03/hearing-hip-hops-jamaican-accent.html)." *Institute for Studies in American Music Newsletter* 34 (2005): 8-9, and 14-15.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Stephens, Michelle A. "{{% resource_link "ae7e8ea6-8169-4e0f-a902-dcfddebaa103" "Babylon's 'Natural Mystic': The North American Music Industry, the Legend of Bob Marley, and the Incorporation of Transnationalism" %}}." *Cultural Studies* 12 (1998): 139–167.
+Stephens, Michelle A. "[Babylon's 'Natural Mystic': The North American Music Industry, the Legend of Bob Marley, and the Incorporation of Transnationalism](http://www.informaworld.com/smpp/content~db=all?content=10.1080/095023898335519)." *Cultural Studies* 12 (1998): 139–167.
 
-Koppel, Niko. "{{% resource_link "587660b4-3f39-4b4f-9b0c-10b7bf1b5f6a" "New Roots in the Bronx for a Lion of Reggae" %}}." *New York Times*, April 12, 2009.
+Koppel, Niko. "[New Roots in the Bronx for a Lion of Reggae](http://www.nytimes.com/2009/04/13/nyregion/13reggae.html)." *New York Times*, April 12, 2009.
 
-Faraone, Chris. "{{% resource_link "70654846-bb1c-4912-b099-c809cf440b7e" "Reggae Revival" %}}." *Boston Phoenix*, May 21, 2009.
+Faraone, Chris. "[Reggae Revival](https://portland.thephoenix.com/Portland/Music/83777-Reggae-revival/)." *Boston Phoenix*, May 21, 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Costa Rica**
@@ -105,7 +105,7 @@ Nwankwo, Ifeoma C. K. "The Panamanian Origins of *Reggae en Español*: Seeing Hi
 
 Giovannetti, Jorge L. "Popular Music and Culture in Puerto Rico: Jamaican and Rap Music as Cross-Cultural Symbols." In Aparicio, Frances R., and Cándida F. Jáquez. *Musical Migrations: Transnationalism and Cultural Hybridity in the Americas*. New York, NY: Palgrave, 2002, pp. 81-98. ISBN: 9781403960016.
 
-Flores, Juan. "Creolité in the 'Hood: Diaspora as Source and Challenge." *Centro* 16 (Fall 2004): 283-289. ({{% resource_link "9532df39-3dfc-4677-913b-a310c5f8b53d" "PDF" %}})
+Flores, Juan. "Creolité in the 'Hood: Diaspora as Source and Challenge." *Centro* 16 (Fall 2004): 283-289. ([PDF](http://wayneandwax.com/pdfs/flores-diaspora-creolite.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -119,7 +119,7 @@ Marshall, Wayne. "From Música Negra to Reggaeton Latino: The Cultural Politics 
 
 Davis, Samuel Furé. "Reggae in Cuba and the Hispanic Caribbean: Fluctuations and Representations of Identities." *Black Music Research Journal* 29 (Spring 2009): 25-50.
 
-Hansing, Katrin. "{{% resource_link "15cbc84b-cdda-4845-968e-06eaffc598a2" "Rasta, Race and Revolution: Transnational Connections in Socialist Cuba" %}}." *Journal of Ethnic and Migration Studies* 27 (2001): 733–747.
+Hansing, Katrin. "[Rasta, Race and Revolution: Transnational Connections in Socialist Cuba](http://dx.doi.org/10.1080/13691830120090476)." *Journal of Ethnic and Migration Studies* 27 (2001): 733–747.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -147,11 +147,11 @@ Perrone, Charles A., and Christopher Dunn. *Brazilian Popular Music and Globaliz
 
 Neate, Patrick, and Damian Platt. Chapters 3-4 and 7-8 in *Culture Is Our Weapon: Afroreggae in the Favelas of Rio*. New York, NY: Penguin, 2006. ISBN: 9781899365692.
 
-{{% resource_link "55bdfe08-06bc-4f7f-b434-156fd379b99c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Goodman, Steve. Chapter 31 in {{% resource_link "55bdfe08-06bc-4f7f-b434-156fd379b99c" "*Sonic Warfare: Sound, Affect, and the Ecology of Fear*" %}}. Cambridge, MA: MIT Press, 2009, pp. 171-175. ISBN: 9780262013475.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262013475) Goodman, Steve. Chapter 31 in [*Sonic Warfare: Sound, Affect, and the Ecology of Fear*](https://mitpress.mit.edu/9780262013475). Cambridge, MA: MIT Press, 2009, pp. 171-175. ISBN: 9780262013475.
 
 *Optional*
 
-Cumming, Andy. "{{% resource_link "50d170cc-3175-4b71-b3eb-aa862215da7c" "Who Let the Yobs Out?" %}}" *Stylus*, November 21, 2005. (Note: This article is included here as a part of "I'm Ugly But I'm Trendy: A 2005 Baile Funk Snapshot" by Andrew Cumming, Brasilwire, September 24, 2018.)
+Cumming, Andy. "[Who Let the Yobs Out?](https://www.brasilwire.com/im-ugly-but-im-trendy-a-baile-funk-snapshot/)" *Stylus*, November 21, 2005. (Note: This article is included here as a part of "I'm Ugly But I'm Trendy: A 2005 Baile Funk Snapshot" by Andrew Cumming, Brasilwire, September 24, 2018.)
 
 Davis, Mike. "Planet of Slums." *New Left* *Review* 26 (March-April 2004).
 
@@ -175,7 +175,7 @@ McNee, Lisa. "Back From Babylon: Popular Musical Cultures of the Diaspora, Youth
 
 Remes, Pieter. "Global Popular Musics and Changing Awareness of Urban Tanzanian Youth." *Yearbook for Traditional Music* 31 (1999): 1-26.
 
-Gilman, Lisa, and John Fenn. "{{% resource_link "9ba4a501-1d8e-493d-a1b0-c7c301c009d3" "Dance, Gender, and Popular Music in Malawi: The Case of Rap and Ragga" %}}." *Popular Music* 25 (2006): 369-381.
+Gilman, Lisa, and John Fenn. "[Dance, Gender, and Popular Music in Malawi: The Case of Rap and Ragga](http://dx.doi.org/10.1017/S026114300600095X)." *Popular Music* 25 (2006): 369-381.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Japan**
@@ -187,7 +187,7 @@ Gilman, Lisa, and John Fenn. "{{% resource_link "9ba4a501-1d8e-493d-a1b0-c7c301c
 22
 {{< tdclose >}}{{< tdopen >}}
 
-Dreisinger, Baz. "Tokyo After Dark." *Vibe*, August 2002. \[View on {{% resource_link "218236bf-8825-496a-873e-8ed352c609f0" "Google Books" %}}\]
+Dreisinger, Baz. "Tokyo After Dark." *Vibe*, August 2002. \[View on [Google Books](http://books.google.com/books?id=0SUEAAAAMBAJ&pg=PA130#v=onepage&q&f=false)\]
 
 Wood, Joe. "The Yellow Negro." *Transition* 73 (1997): 40-67.
 
